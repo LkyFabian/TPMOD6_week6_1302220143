@@ -6,10 +6,19 @@ namespace SayaTubeVideo
     {
         static void Main(string[] args)
         {
-            // F. Panggil method tersebut pada fungsi/method utama dengan membuat sebuah video dengan judul “Tutorial Design By Contract – Jeremy Mathew Fabian Sitepu”
             SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – Jeremy Mathew Fabian Sitepu");
+
+            Console.WriteLine("Initial video details:");
             video.PrintVideoDetails();
-            video.IncreasePlayCount(10);
+
+            Console.WriteLine("\nIncreasing play count...");
+
+            for (int i = 0; i < 100; i++)
+            {
+                video.IncreasePlayCount(10000001);
+            }
+
+            Console.WriteLine("\nVideo details after increasing play count:");
             video.PrintVideoDetails();
 
             Console.ReadLine();
