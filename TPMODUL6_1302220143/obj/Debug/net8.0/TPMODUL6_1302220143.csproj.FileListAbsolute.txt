@@ -1,0 +1,14 @@
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\bin\Debug\net8.0\TPMODUL6_1302220143.exe
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\bin\Debug\net8.0\TPMODUL6_1302220143.deps.json
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\bin\Debug\net8.0\TPMODUL6_1302220143.runtimeconfig.json
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\bin\Debug\net8.0\TPMODUL6_1302220143.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\bin\Debug\net8.0\TPMODUL6_1302220143.pdb
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.AssemblyInfoInputs.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.AssemblyInfo.cs
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.csproj.CoreCompileInputs.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\refint\TPMODUL6_1302220143.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.pdb
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\TPMODUL6_1302220143.genruntimeconfig.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TPMODUL6_1302220143\TPMODUL6_1302220143\obj\Debug\net8.0\ref\TPMODUL6_1302220143.dll
